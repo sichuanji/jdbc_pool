@@ -24,3 +24,8 @@
 
 ```
 ## 测试效果
+### 压力测试
+![image](https://github.com/sichuanji/jdbc_pool/assets/52628782/886a5a4f-dafe-47f5-8437-2af477a050ff)
+
+### 功能测试
+![Uploading image.png…]()
