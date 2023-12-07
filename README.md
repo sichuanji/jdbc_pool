@@ -28,4 +28,5 @@
 ![image](https://github.com/sichuanji/jdbc_pool/assets/52628782/886a5a4f-dafe-47f5-8437-2af477a050ff)
 
 ### 功能测试
-![Uploading image.png…]()
+![image](https://github.com/sichuanji/jdbc_pool/assets/52628782/176b5d5f-3679-4b6b-9c46-525547b973ec)
+
